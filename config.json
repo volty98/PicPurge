@@ -1,0 +1,10 @@
+{
+    "plugin_name": "PicPurge",
+    "uuid": "e2059775-cebb-5e82-d92d-8a4ac188d5a2",
+    "plugin_view_name": "画像ファイルサイズ制限プラグイン",
+    "description": "指定カスタム列の画像ファイルのサイズ上限を独自にさらに制限します。",
+    "author":  "Shingo FUKUYA",
+    "version": "0.0.1",
+    "plugin_type": "event",
+    "event_triggers": "saved"
+}
